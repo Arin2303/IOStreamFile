@@ -1,5 +1,8 @@
 package tugas;
 
+// Nama : Frinti Desti Annisa
+// NPM  : 2410010597
+
 public class MainTugas {
 
     public static void main(String[] args) {
